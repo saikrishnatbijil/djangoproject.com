@@ -19,4 +19,3 @@ djangoproject/static/js/lib/unveil/jquery-1.9.1.min.js
 djangoproject/static/js/lib/unveil/index.html
 djangoproject/static/js/lib/unveil/img
 node_modules/
-.DS_Store
